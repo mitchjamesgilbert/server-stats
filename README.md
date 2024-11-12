@@ -16,7 +16,7 @@ This project is based on the following site: https://roadmap.sh/projects/server-
 - **Dependencies**: The script uses `top`, `df`, and `awk`, which are commonly available on most Linux distributions.
 
 ## Example Output
-
+```bash
 System Performance Report
 =========================
 
@@ -41,3 +41,4 @@ Top 5 Processes by Memory Usage:
   10596 fwupd            1.9
     810 snapd            1.5
     361 multipathd       1.3
+```
